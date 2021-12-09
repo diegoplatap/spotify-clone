@@ -1,18 +1,13 @@
-import Head from "next/head";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/Sidebar.jsx";
 
 export default function Home() {
   return (
-    <div className="">
-      <Head>
-        <title>Spotify 2.0</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <div className="bg-black h-screen overflow-hidden">
       <main>
         <Sidebar />
         {/* {Center} */}
       </main>
-      {/* {Player} */}
+      <div>{/* {Player} */}</div>
     </div>
   );
 }
