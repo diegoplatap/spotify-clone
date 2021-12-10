@@ -12,4 +12,4 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 ## Check out the project here
 
-Link:(https://spotify-clone-inky.vercel.app)
+Link --> [](https://spotify-clone-inky.vercel.app)
