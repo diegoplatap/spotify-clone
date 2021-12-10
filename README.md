@@ -6,7 +6,7 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 ## Check out the project: 
 
- [CLICK HERE!](https://spotify-clone-inky.vercel.app)
+ [CLICK HERE!](https://spotify-clone-rose.vercel.app/)
 
 ## Preview
 
